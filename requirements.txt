@@ -1,0 +1,6 @@
+requests
+pynput
+pyautogui
+tk
+ttkthemes
+paramiko
